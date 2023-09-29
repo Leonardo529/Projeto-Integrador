@@ -26,4 +26,10 @@ O sistema deve ter um layout responsivo que funcione corretamente em larguras de
 Não é necessário suportar larguras de tela menores que 350px.
 Este MVP visa atender às necessidades básicas de organização de aulas, sala e laboratório, e fornecer uma base sólida para futuras melhorias e expansões do sistema.
 
+## Diagramas:
+
+End Points:
+
+![image](https://github.com/Leonardo529/Projeto-Integrador/assets/127244289/dd551f48-72d3-404c-b43d-48c994734095)
+
 
