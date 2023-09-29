@@ -32,4 +32,8 @@ Este MVP visa atender às necessidades básicas de organização de aulas, sala 
 
 ![image](https://github.com/Leonardo529/Projeto-Integrador/assets/127244289/dd551f48-72d3-404c-b43d-48c994734095)
 
+### Protótipo do Projeto (Alta fidelidade):
+
+https://www.figma.com/file/Dxeu0ie6JjMtIdViNqv8Hb/Bootstrap-UI-Kit-(Community)?type=design&node-id=4288%3A1702&mode=design&t=Psm8t4qK5gIaETlC-1
+
 
