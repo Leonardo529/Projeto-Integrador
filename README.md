@@ -28,7 +28,7 @@ Este MVP visa atender às necessidades básicas de organização de aulas, sala 
 
 ## Diagramas:
 
-###End Points:
+### End Points:
 
 ![image](https://github.com/Leonardo529/Projeto-Integrador/assets/127244289/dd551f48-72d3-404c-b43d-48c994734095)
 
